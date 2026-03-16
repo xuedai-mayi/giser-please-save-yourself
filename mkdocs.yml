@@ -1,0 +1,4 @@
+site_name: gis自学指南
+theme:
+  name: material
+  language: zh # 设置为中文
